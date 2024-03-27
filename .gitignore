@@ -1,0 +1,5 @@
+data/*
+pyvenv.cfg
+.idea
+bin
+lib
