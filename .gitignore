@@ -3,3 +3,5 @@ pyvenv.cfg
 .idea
 bin
 lib
+credentials.json
+cron.log
